@@ -1,5 +1,6 @@
+
 {
-    "badWords": [
+    "words": [
         "ass",
         "bitch",
         "bloody",
@@ -20,6 +21,10 @@
         "dumb",
         "fag",
         "twat"
+    ],
+    "exceptions": [
+        "legitimate",
+        "normal"
     ]
 }
 
