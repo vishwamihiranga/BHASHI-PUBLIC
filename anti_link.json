@@ -1,0 +1,9 @@
+{
+    "domains": [
+        "wa.me",
+        "github.com"
+    ],
+    "patterns": [
+        "^https://wa\\.me/"
+    ]
+}
