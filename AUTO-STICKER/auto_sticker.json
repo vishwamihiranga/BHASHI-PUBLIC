@@ -1,0 +1,10 @@
+{
+  "hello": "https://example.com/stickers/hello.webp",
+  "goodbye": "https://example.com/stickers/goodbye.webp",
+  "thanks": "https://example.com/stickers/thanks.webp",
+  "yes": "https://example.com/stickers/yes.webp",
+  "no": "https://example.com/stickers/no.webp",
+  "wow": "https://example.com/stickers/wow.webp",
+  "lol": "https://example.com/stickers/lol.webp",
+  "love": "https://example.com/stickers/love.webp"
+}
